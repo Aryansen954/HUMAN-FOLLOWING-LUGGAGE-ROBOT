@@ -59,8 +59,6 @@ Install the following libraries from the Arduino Library Manager:
 
 ## 📷 Demo / Future Scope
 
-📌 *[You can upload your project images or demo videos here]*
-
 Future enhancements:
 - Use Bluetooth/GPS for path guidance
 - Add voice commands or remote app control
